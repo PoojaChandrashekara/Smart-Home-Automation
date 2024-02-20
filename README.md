@@ -1,4 +1,4 @@
-# Predictive Home Automation with Relay Control
+# Smart Home Automation
 
 This project implements a machine learning model to predict and control relay states for home automation. It utilizes relay data collected from a Firebase-connected sensor setup and a K-Nearest Neighbors (KNN) classifier for prediction.
 
